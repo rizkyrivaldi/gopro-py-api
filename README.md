@@ -64,3 +64,6 @@ Documentation is available: [docs](/docs)
 - HERO3 Black: https://vimeo.com/209181246
 - HERO5 Black: https://vimeo.com/235135652
 - HERO7 Black: https://www.youtube.com/watch?v=i-X4fPVfoW0
+
+INFO TAMBAHAN:
+https://medium.com/@ardianumam/gopro-video-streaming-to-pc-using-opencv-python-848e7fc48175
